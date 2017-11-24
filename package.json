@@ -20,7 +20,7 @@
     "valuelink": "^1.5.4"
   },
   "scripts": {
-    "prestart": "",
+    "prestart": "react-scripts build",
     "start": "node server",
     "build": "react-scripts build",
     "test": "mocha test",
