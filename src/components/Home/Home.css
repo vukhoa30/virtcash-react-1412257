@@ -1,0 +1,31 @@
+.home-panel {
+  margin: 0px 2%;
+  padding: 2% 2%;
+}
+.home-padding-panel {
+  padding: 1% 1%;
+}
+.home-vt-large, .home-vt-small {
+  color: rgb(231, 231, 0);
+  font-weight: bold;
+}
+.home-vt-large {
+  font-size: 3em;
+  text-align: center;
+}
+.home-input-email {
+  width: 100%;
+}
+.home-input-vt {
+  width: 75%;
+}
+.home-modal-body {
+  padding: 10% 20%;
+}
+.home-text-right {
+  text-align: right;
+}
+.home-username {
+  color: green;
+  font-weight: bold;
+}

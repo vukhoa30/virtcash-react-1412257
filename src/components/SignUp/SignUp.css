@@ -1,0 +1,15 @@
+.sign-up-invisible {
+  display: none;
+}
+.sign-up-error {
+  background-color: rgb(252, 224, 224);
+  color: orangered;
+  border-radius: 10px 10px;
+}
+.sign-up-text-center {
+  text-align: center;
+}
+.sign-up-succes-panel {
+  margin: 0px 2%;
+  padding: 10% 2%;
+}
